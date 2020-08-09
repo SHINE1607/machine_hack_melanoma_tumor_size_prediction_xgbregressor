@@ -22,8 +22,9 @@ Africa, and Latin America. In the United States melanoma occurs about 1.6 times 
 ### Pytorch
 * The paramters are:
 epochs used are: 1200
-and model architecture is given below
+### model architecture is given below
 ![alt text](https://github.com/SHINE1607/machine_hack_melanomma/blob/master/images/architecture.png)
+
 **mse** obatiend for test data: **5.481205342349706**, which is not a good one!!
 
  ### XGBRegressor
