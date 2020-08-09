@@ -41,4 +41,4 @@ epochs used are: 1200
   'subsample': 0.7})
   * The mae score obtained for the validation data is **3.5504568039269024**
   
-  The final model used XGBRegresor and score for final prediction, which got me score of 4.41 in leaderboard
+  The final model used XGBRegresor and score for final prediction, which got me score of **4.41** in leaderboard
